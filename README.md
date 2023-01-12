@@ -65,12 +65,12 @@ child_account = the number for your child's account in Metamask
 
 The streamlit web app looks as follows:
 
-![snippet of our code](Images/Image1.png)
+![snippet of our code](images/Image1.png)
 
-![snippet of our code](Images/Image2.png)
+![snippet of our code](images/Image2.png)
 
 
-![snippet of our code](Images/Image3.png)
+![snippet of our code](images/Image3.png)
 
 
 ---
