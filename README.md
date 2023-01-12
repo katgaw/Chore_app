@@ -53,12 +53,12 @@ To use this project simply clone the repository and run the code **streamlit run
 3. Create a new project on the Infura website.
 4. Make sure you have enough ETH on your Goerli testnet in Metamask wallet (at least 0.03 ETH).
 5. Populate your .env file with:
-API_KEY to your Pexels account (if you want to use the pexel website for the image recognition model, otherwise you can just upload your pics of clean and dirty kitchen, I recommend at least 400 images in total).
-SMART_CONTRACT_ADDRESS = if you want to use the solidity contracts (not necessary for the app to function).
-INFURA_API_KEY = your endpoint to the project you need to create for this app in Infura.
-ACCOUNT_KEY = private key to your Metamask wallet (you will find it in the three dots in your Metamask Wallet)
-parent_account = the number for your 'parent' account in Metamask
-child_account = the number for your child's account in Metamask
+* API_KEY to your Pexels account (if you want to use the pexel website for the image recognition model, otherwise you can just upload your pics of clean and dirty kitchen, I recommend at least 400 images in total).
+* SMART_CONTRACT_ADDRESS = if you want to use the solidity contracts (not necessary for the app to function).
+* INFURA_API_KEY = your endpoint to the project you need to create for this app in Infura.
+* ACCOUNT_KEY = private key to your Metamask wallet (you will find it in the three dots in your Metamask Wallet)
+* parent_account = the number for your 'parent' account in Metamask
+* child_account = the number for your child's account in Metamask
 
 ---
 
